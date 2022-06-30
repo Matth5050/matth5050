@@ -1,7 +1,3 @@
 
-<a href="https://github.com/matth5050/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matth5050&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/matth5050/matth5050.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matth5050&repo=matth5050.github.io&theme=buefy" />
-</a>
+| <a href="https://github.com/matth5050/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matth5050&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/matth5050/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matth5050&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
